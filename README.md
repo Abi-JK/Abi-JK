@@ -1,153 +1,100 @@
-<img width=100% height=auto src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=45&duration=3000&pause=500&color=FF006E&center=true&vCenter=true&width=1000&lines=👋+Hello!+I'm+Abirami;💻+Full-Stack+Developer;🤖+ML+Enthusiast;📊+Data+Science+Lover">
-
----
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Abirami
 
 <div align="center">
-
-# ✨ **Abirami** ✨
-
-## 🌈 About Me
-
-I'm a passionate developer from India 🇮🇳 who loves building innovative digital solutions. I specialize in **full-stack web development**, **machine learning**, and **data science**. I enjoy transforming complex problems into elegant, user-friendly applications that make a real impact.
-
-When I'm not coding, I'm exploring new technologies, analyzing data patterns, and creating beautiful UI/UX experiences. I believe in continuous learning and collaborating with amazing people to build something extraordinary! 💡
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF006E&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+🌐;Data+Science+Enthusiast+📊;ML+Builder+🤖;Problem+Solver+💡" alt="Typing SVG" />
 </div>
 
 ---
 
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Space&fontSize=40&animation=fadeIn&fontAlignY=35" alt="Header" />
+</p>
 
-## 🔗 Connect With Me
+## 🚀 About Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00FF88)](https://github.com/Abi-JK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/18abikannan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF006E?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Abi-JK)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abimuthu9597@gmail.com)
-
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <p>⚡ Building innovative <b>Full-Stack Web Applications</b></p>
+      <p>🤖 Exploring <b>Machine Learning & Deep Learning</b></p>
+      <p>📊 Analyzing data with <b>Python & Advanced Analytics</b></p>
+      <p>🎨 Creating beautiful <b>UI/UX Experiences</b></p>
+      <p>🚀 Open for collaborations & freelance opportunities</p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img width="280" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coding Animation">
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack & Expertise
 
-### 🐍 Languages
-<div>
+### 🐍 Languages & Core
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,c" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</div>
+### 🌐 Frontend & Design
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,html,css,figma,canva" />
+</p>
 
 ### 📊 Data Science & ML
-<div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=4ECDC4" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
+</p>
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=4ECDC4)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### ⚙️ Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,postman" />
+</p>
 
+---
+
+## 🔥 Current Focus
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Full_Stack_Development-FF006E?style=for-the-badge&logo=code&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/ML_Projects-00FF88?style=for-the-badge&logo=tensorflow&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Data_Analysis-58A6FF?style=for-the-badge&logo=analytics&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Web_Apps-9D4EDD?style=for-the-badge&logo=windows&logoColor=white"/>  
+</p>
+
+---
+
+## 📊 GitHub Stats & Insights
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Abi-JK&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF006E&icon_color=00FF88&text_color=58A6FF&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abi-JK&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF006E&text_color=58A6FF&langs_count=8" alt="Top Languages" />
 </div>
 
-### 📈 Visualization & Analysis
-<div>
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Seaborn](https://img.shields.io/badge/Seaborn-0C4B33?style=for-the-badge&logo=python&logoColor=4ECDC4)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=00CC96)
-
-</div>
-
-### 🎨 Design & Creative
-<div>
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere-9999FF?style=for-the-badge&logo=adobe&logoColor=white)
-
-</div>
-
-### ⚙️ Tools & Development
-<div>
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
-
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abi-JK&theme=radical&column=7&margin-w=15&no-bg=true" alt="GitHub Trophies" />
 </div>
 
 ---
 
 ## 🚀 Featured Projects
 
-<table align="center">
-<tr>
-<td width="50%">
-<h3>⏱️ Time Series Forecasting</h3>
-<p>Advanced LSTM + Attention Architecture with ARIMA comparison for predictive analytics</p>
-<p><strong>Tech:</strong> Python • TensorFlow • Keras</p>
-</td>
-<td width="50%">
-<h3>📊 Job Market Analysis</h3>
-<p>Data-driven insights from LinkedIn job postings analyzing hiring trends and in-demand skills</p>
-<p><strong>Tech:</strong> Python • Pandas • Matplotlib • Seaborn</p>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3>🌤️ Weather App</h3>
-<p>Real-time global weather information with beautiful, responsive UI design</p>
-<p><strong>Tech:</strong> JavaScript • API Integration • Weather API</p>
-</td>
-<td width="50%">
-<h3>📱 QR Code Generator</h3>
-<p>Smart tool for creating QR codes from text or URLs with instant download</p>
-<p><strong>Tech:</strong> HTML • CSS • JavaScript</p>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3>🎓 English Learning App</h3>
-<p>Interactive platform for learning English with engaging lessons and practice exercises</p>
-<p><strong>Tech:</strong> JavaScript • HTML • CSS • DOM Manipulation</p>
-</td>
-<td width="50%">
-<h3>✅ Task Manager</h3>
-<p>Productive web application for managing tasks with add, edit, and delete features</p>
-<p><strong>Tech:</strong> JavaScript • HTML • CSS</p>
-</td>
-</tr>
-</table>
+| Project | Description | Tech |
+|---------|-------------|------|
+| **⏱️ Time Series Forecasting** | LSTM + Attention vs ARIMA for predictive analytics | TensorFlow • Keras • Python |
+| **📊 Job Market Analysis** | LinkedIn data analysis with hiring trend insights | Pandas • Matplotlib • Seaborn |
+| **🌤️ Weather App** | Real-time global weather with responsive design | JavaScript • API Integration |
+| **📱 QR Code Generator** | Smart QR creation tool with instant download | JavaScript • HTML • CSS |
+| **🎓 English Learning App** | Interactive platform for English language learners | JavaScript • DOM Manipulation |
+| **✅ Task Manager** | Productivity app with add, edit, delete features | JavaScript • HTML • CSS |
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abi-JK&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF006E&icon_color=00FF88&text_color=58A6FF)
-
-</div>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abi-JK&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF006E&text_color=58A6FF)
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abi-JK&theme=radical&hide_border=true&background=0d1117&stroke=FF006E&ring=FF006E&fire=FF006E&dates=58A6FF)
-
-</div>
-
----
-
-## 💡 Skills & Expertise
+## 💡 Skills & Proficiency
 
 ```
 🚀 Full-Stack Development     ████████████░░░░░░░░ 85%
@@ -160,62 +107,29 @@ When I'm not coding, I'm exploring new technologies, analyzing data patterns, an
 
 ---
 
-## 🎯 What I'm Currently Exploring
+## 🌍 Let's Connect & Collaborate
 
-- 🔬 Advanced Deep Learning & Neural Networks
-- 📈 Real-time Time Series Forecasting
-- 🌐 Full-stack Web Applications with Modern Frameworks
-- 📊 Interactive Data Visualization Dashboards
-- 🤖 AI-powered Applications & Automation
-- 🎨 Creative UI/UX Design Patterns
-
----
-
-## 💬 Let's Connect!
-
-<div align="center">
-
-**I love collaborating on interesting projects, sharing knowledge, and building solutions that matter!**
-
-Whether you want to discuss tech, work on a project, or just say hi – feel free to reach out! 🤝
-
-</div>
-
----
-
-<div align="center">
-
-## ⚡ Quick Facts
-
-- 🌍 Based in India 🇮🇳
-- 💻 Full-Stack Developer & Data Enthusiast
-- 🚀 Always excited about learning new technologies
-- 🤝 Open to collaborations & freelance opportunities
-- 📚 Lifelong learner with a passion for innovation
-- ⭐ Love building cool, impactful projects
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=20&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=✨+Let's+Build+Something+Amazing!;🚀+Innovation+Starts+Here!;💡+Code+with+Passion!;🎯+Dreams+into+Reality!">
-
----
-
-### 🌐 Let's Connect & Collaborate
-
-**[🔗 GitHub](https://github.com/Abi-JK) • [💼 LinkedIn](https://linkedin.com/in/18abikannan) • [📧 Email](mailto:abimuthu9597@gmail.com) • [🎯 Portfolio](https://github.com/Abi-JK)**
-
-<p>
-<img src="https://komarev.com/ghpvc/?username=Abi-JK&color=FF006E&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Badge"/>
+<p align="center">
+  <a href="https://github.com/Abi-JK">
+    <img src="https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/18abikannan">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:abimuthu9597@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Abi-JK">
+    <img src="https://img.shields.io/badge/Portfolio-FF006E?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
 </p>
 
-### ⭐ Found my work interesting? Don't forget to star my repositories! ⭐
-
 ---
 
-<sub>Made with ❤️ by Abirami | Last updated: 2026</sub>
-
+<div align="center">
+  <h3>✨ Build → Learn → Create 🚀</h3>
+  <img src="https://komarev.com/ghpvc/?username=Abi-JK&style=flat-square&color=FF006E" alt="Profile Views" />
+  
+  <br />
+  <sub>Made with ❤️ by Abirami | Always Learning, Always Building</sub>
 </div>
