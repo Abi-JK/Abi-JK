@@ -1,8 +1,10 @@
-<img width=100% height=auto src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=500&color=FF006E&center=true&vCenter=true&width=1000&lines=🚀+Hi+There!+I'm+Abirami!;💻+Full+Stack+Developer;📊+Data+Science+Expert;🤖+AI+%26+ML+Enthusiast" alt="Typing animation"/>
+<img width=100% height=auto src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=45&duration=3000&pause=500&color=FF006E&center=true&vCenter=true&width=1000&lines=👋+Hello!+I'm+Abi+Kannan;💻+Full-Stack+Developer;🤖+ML+Enthusiast;📊+Data+Science+Lover">
 
 ---
 
 <div align="center">
+
+# ✨ **Abi Kannan** ✨
 
 ## 🌈 About Me
 
@@ -181,7 +183,7 @@ A passionate developer from India 🇮🇳 who specializes in building innovativ
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=18&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=✨+Let's+Build+Something+Amazing!;🚀+Always+Learning+%26+Growing;💡+Ideas+into+Reality;🌟+Making+an+Impact" alt="Footer animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=20&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=✨+Let's+Build+Something+Amazing!;🚀+Always+Learning!;💡+Innovation+is+Key!">
 
 ---
 
