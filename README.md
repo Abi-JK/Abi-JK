@@ -3,7 +3,10 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,100:00FF88&height=220&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Building%20elegant%20solutions%20with%20code%20%26%20creativity&descAlignY=62&descAlign=50" alt="Waving Header" />
+  <h1 style="background: linear-gradient(135deg, #FF006E 0%, #00FF88 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5em; margin: 20px 0;">
+    ✨ Welcome to My Profile ✨
+  </h1>
+  <p style="color: #00FF88; font-size: 1.2em; font-weight: bold;">Building elegant solutions with code & creativity</p>
 </div>
 
 ---
@@ -239,6 +242,6 @@
 
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,100:FF006E&height=100&section=footer&animation=fadeIn" alt="Footer Wave" />
+  <h2 style="color: #FF006E; margin-top: 30px;">~ ~ ~ ~ ~ ✨ ~ ~ ~ ~ ~</h2>
   
 </div>
