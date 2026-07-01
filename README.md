@@ -1,16 +1,16 @@
-<img width=100% height=auto src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=45&duration=3000&pause=500&color=FF006E&center=true&vCenter=true&width=1000&lines=👋+Hello!+I'm+Abi+Kannan;💻+Full-Stack+Developer;🤖+ML+Enthusiast;📊+Data+Science+Lover">
+<img width=100% height=auto src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=45&duration=3000&pause=500&color=FF006E&center=true&vCenter=true&width=1000&lines=👋+Hello!+I'm+Abirami;💻+Full-Stack+Developer;🤖+ML+Enthusiast;📊+Data+Science+Lover">
 
 ---
 
 <div align="center">
 
-# ✨ **Abi Kannan** ✨
+# ✨ **Abirami** ✨
 
 ## 🌈 About Me
 
-> **Transforming ideas into elegant digital experiences** through code, creativity, and data science!
+I'm a passionate developer from India 🇮🇳 who loves building innovative digital solutions. I specialize in **full-stack web development**, **machine learning**, and **data science**. I enjoy transforming complex problems into elegant, user-friendly applications that make a real impact.
 
-A passionate developer from India 🇮🇳 who specializes in building innovative solutions that blend **full-stack development**, **machine learning**, and **data visualization**.
+When I'm not coding, I'm exploring new technologies, analyzing data patterns, and creating beautiful UI/UX experiences. I believe in continuous learning and collaborating with amazing people to build something extraordinary! 💡
 
 </div>
 
@@ -23,6 +23,7 @@ A passionate developer from India 🇮🇳 who specializes in building innovativ
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00FF88)](https://github.com/Abi-JK)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/18abikannan)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF006E?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Abi-JK)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abimuthu9597@gmail.com)
 
 </div>
 
@@ -47,6 +48,7 @@ A passionate developer from India 🇮🇳 who specializes in building innovativ
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 </div>
 
@@ -86,36 +88,36 @@ A passionate developer from India 🇮🇳 who specializes in building innovativ
 <tr>
 <td width="50%">
 <h3>⏱️ Time Series Forecasting</h3>
-<p>Advanced LSTM + Attention Architecture with ARIMA comparison</p>
+<p>Advanced LSTM + Attention Architecture with ARIMA comparison for predictive analytics</p>
 <p><strong>Tech:</strong> Python • TensorFlow • Keras</p>
 </td>
 <td width="50%">
 <h3>📊 Job Market Analysis</h3>
-<p>LinkedIn Job Data Analysis & Hiring Trends</p>
+<p>Data-driven insights from LinkedIn job postings analyzing hiring trends and in-demand skills</p>
 <p><strong>Tech:</strong> Python • Pandas • Matplotlib • Seaborn</p>
 </td>
 </tr>
 <tr>
 <td width="50%">
 <h3>🌤️ Weather App</h3>
-<p>Real-time Global Weather Application</p>
-<p><strong>Tech:</strong> JavaScript • API Integration</p>
+<p>Real-time global weather information with beautiful, responsive UI design</p>
+<p><strong>Tech:</strong> JavaScript • API Integration • Weather API</p>
 </td>
 <td width="50%">
 <h3>📱 QR Code Generator</h3>
-<p>Smart QR Code Creation Tool</p>
+<p>Smart tool for creating QR codes from text or URLs with instant download</p>
 <p><strong>Tech:</strong> HTML • CSS • JavaScript</p>
 </td>
 </tr>
 <tr>
 <td width="50%">
 <h3>🎓 English Learning App</h3>
-<p>Interactive English Language Platform</p>
-<p><strong>Tech:</strong> JavaScript • HTML • CSS</p>
+<p>Interactive platform for learning English with engaging lessons and practice exercises</p>
+<p><strong>Tech:</strong> JavaScript • HTML • CSS • DOM Manipulation</p>
 </td>
 <td width="50%">
-<h3>📝 Portfolio Website</h3>
-<p>Personal Portfolio Showcase</p>
+<h3>✅ Task Manager</h3>
+<p>Productive web application for managing tasks with add, edit, and delete features</p>
 <p><strong>Tech:</strong> JavaScript • HTML • CSS</p>
 </td>
 </tr>
@@ -152,18 +154,32 @@ A passionate developer from India 🇮🇳 who specializes in building innovativ
 🤖 Machine Learning           ███████████░░░░░░░░░ 80%
 📊 Data Science & Analytics   ███████████░░░░░░░░░ 80%
 🎨 UI/UX & Design             ██████████░░░░░░░░░░ 75%
-📹 Video & Media Production   █████████░░░░░░░░░░░ 70%
+🎬 Video & Media Production   █████████░░░░░░░░░░░ 70%
+⚡ Problem Solving            ███████████░░░░░░░░░ 82%
 ```
 
 ---
 
-## 🎯 Currently Exploring
+## 🎯 What I'm Currently Exploring
 
-- 🔬 Advanced Deep Learning architectures
-- 📈 Time series forecasting & prediction
-- 🌐 Full-stack web applications
-- 🎨 Data visualization dashboards
-- 💻 AI-powered applications
+- 🔬 Advanced Deep Learning & Neural Networks
+- 📈 Real-time Time Series Forecasting
+- 🌐 Full-stack Web Applications with Modern Frameworks
+- 📊 Interactive Data Visualization Dashboards
+- 🤖 AI-powered Applications & Automation
+- 🎨 Creative UI/UX Design Patterns
+
+---
+
+## 💬 Let's Connect!
+
+<div align="center">
+
+**I love collaborating on interesting projects, sharing knowledge, and building solutions that matter!**
+
+Whether you want to discuss tech, work on a project, or just say hi – feel free to reach out! 🤝
+
+</div>
 
 ---
 
@@ -171,11 +187,12 @@ A passionate developer from India 🇮🇳 who specializes in building innovativ
 
 ## ⚡ Quick Facts
 
-- 🌍 Based in India
-- 💻 Passionate about coding & data
-- 📚 Continuous learner
-- 🤝 Open to collaborations
-- ⭐ Love building cool projects
+- 🌍 Based in India 🇮🇳
+- 💻 Full-Stack Developer & Data Enthusiast
+- 🚀 Always excited about learning new technologies
+- 🤝 Open to collaborations & freelance opportunities
+- 📚 Lifelong learner with a passion for innovation
+- ⭐ Love building cool, impactful projects
 
 </div>
 
@@ -183,22 +200,22 @@ A passionate developer from India 🇮🇳 who specializes in building innovativ
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=20&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=✨+Let's+Build+Something+Amazing!;🚀+Always+Learning!;💡+Innovation+is+Key!">
+<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=20&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=✨+Let's+Build+Something+Amazing!;🚀+Innovation+Starts+Here!;💡+Code+with+Passion!;🎯+Dreams+into+Reality!">
 
 ---
 
-<div>
+### 🌐 Let's Connect & Collaborate
 
-### 🌐 Connect & Explore
-
-**[🔗 GitHub](https://github.com/Abi-JK) • [💼 LinkedIn](https://linkedin.com/in/18abikannan) • [🎯 Portfolio](https://github.com/Abi-JK)**
-
-</div>
+**[🔗 GitHub](https://github.com/Abi-JK) • [💼 LinkedIn](https://linkedin.com/in/18abikannan) • [📧 Email](mailto:abimuthu9597@gmail.com) • [🎯 Portfolio](https://github.com/Abi-JK)**
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=Abi-JK&color=FF006E&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Badge"/>
 </p>
 
-⭐ **If you find my work interesting, don't forget to star my repositories!** ⭐
+### ⭐ Found my work interesting? Don't forget to star my repositories! ⭐
+
+---
+
+<sub>Made with ❤️ by Abirami | Last updated: 2026</sub>
 
 </div>
